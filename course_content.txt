@@ -1,0 +1,25 @@
+Recap - Chapter 1
+* task graphs
+
+* Lazy evaluation
+
+* Threads vs. processes
+
+* dask.delayed()
+
+Recap - chapter 2
+
+* Analyzing big structured data
+
+* Dask arrays
+* Dask DataFrames
+
+* Advanced data formats: h5py, zarr, parquet
+
+* pandas & numpy -> dask
+
+Recap - chapter 3
+
+* dask bags for big unstructured and semi-structured data
+
+* e.g., JSON, text, and audio
